@@ -1,0 +1,8 @@
+.searchWeather {
+    padding: 0 30px;
+}
+
+.searchWeather form {
+    border: 1px solid black;
+    padding: 50px;
+}
